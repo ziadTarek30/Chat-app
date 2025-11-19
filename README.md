@@ -13,7 +13,7 @@ A simple Node.js chat app using ExpressJS and SocketIO.
 2. Install the project dependencies
 
    ```sh
-    cd node-url-shortener
+    cd Chat-app
     npm install
    ```
 
